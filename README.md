@@ -1,6 +1,6 @@
-# PrivaCompliance dApp 🌙 (Midnight Level 2)
+# SecureCompliance dApp 🌙 (Midnight Level 2)
 
-This repository contains the frontend implementation, smart contract integration, and automated toolchain verification for the **PrivaCompliance** decentralized application, deployed on the **Midnight Preprod Network**.
+This repository contains the frontend implementation, smart contract integration, and automated toolchain verification for the **SecureCompliance** decentralized application, deployed on the **Midnight Preprod Network**.
 
 ## 📑 Privacy Claim & Observable Behavior
 Our dApp proves strict regulatory and legal compliance *without revealing* the underlying user identity or sensitive credentials. 
