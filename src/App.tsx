@@ -44,7 +44,7 @@ export default function App() {
             M
           </div>
           <span className="text-xl font-bold bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent">
-            PrivaCompliance
+            SecureCompliance
           </span>
           <span className="text-xs bg-indigo-500/10 text-indigo-400 px-2.5 py-0.5 rounded-full border border-indigo-500/20 font-medium">
             Midnight Preprod
