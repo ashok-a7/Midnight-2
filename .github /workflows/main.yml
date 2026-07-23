@@ -1,4 +1,4 @@
-name: Midnight Compact Compilation Check // checking
+name: Midnight Compact Compilation Check 
 
 on:
   push:
