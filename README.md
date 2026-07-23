@@ -7,8 +7,8 @@ Our dApp proves strict regulatory and legal compliance *without revealing* the u
 * **The Privacy Behavior:** The ZK circuit verifies that the user's `eligibilityProof` matches network compliance criteria. The application successfully logs `isValidated: true` on the public ledger while keeping the secret witness parameter completely hidden from the public state.
 
 ## 🚀 Live Demonstration
-* **Live dApp Deployment:** [https://privacompliance-dapp-ksm4.vercel.app/](https://privacompliance-dapp-ksm4.vercel.app/)
-* **Preprod Contract Address:** `0000000000000000000000000000000000000000000000000000000000000001::PrivaCompliance`
+* **Live dApp Deployment:** [https://midnight-2.vercel.app/](https://midnight-2.vercel.app/)
+* **Preprod Contract Address:** `0000000000000000000000000000000000000000000000000000000000000001::SecureCompliance`
 
 ## 🛠️ Technical Stack & Frameworks
 * **Language:** Compact 0.1.0 & TypeScript
